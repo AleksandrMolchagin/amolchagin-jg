@@ -1,13 +1,13 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Luma
+  description: Designed and built a full-stack, LLM-powered platform that lets users “chat” with documents using natural language. Implemented 27 secure REST endpoints, architected a CI/CD pipeline for seamless deployments, and authored complete developer documentation.
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: Kraigslist
+  description: Engineered a full-stack marketplace where users can create, filter, and engage with service posts. Added AI-assisted messaging, advanced faceted search, multi-page navigation, secure authentication, and a responsive UI/UX for desktop and mobile.
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: dVox
+  description: Developed a blockchain-based social media app with Solidity smart contracts and native Java (Android) and Swift (iOS) clients—guaranteeing 100 % user anonymity. Improved data retrieval latency by 33 % through multi-threaded optimizations.
 
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Virtual Election Booth
+  description: Built a secure, distributed e-voting system that preserves voter anonymity and ensures data integrity via end-to-end encryption. Orchestrated communication across server nodes for reliable, tamper-proof ballot processing.

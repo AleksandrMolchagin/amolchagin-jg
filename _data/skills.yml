@@ -1,36 +1,40 @@
-header: Say something about what you're good at
+header: I am good at diving into a project and figuring things out as I go with minimum supervision.
 
-subheader: Give some more context
+subheader: For example, when I joined America SCORES as a Software Developer intern, I quickly learned how all of their MuleSoft API servers were implemented and interconnected—with no documentation or other developers available to guide me.
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: JavaScript (TypeScript)
+    description: Proficient in building dynamic front-end and back-end applications using modern JS frameworks (React, Next.js) and Node.js for scalable, maintainable codebases.
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Python
+    description: Experienced in scripting, automation, and web services development, with strong skills in CI/CD pipeline creation and data processing using Python.
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: DevOps & CI/CD
+    description: Designed and operated CI/CD workflows using Jenkins, GitHub Actions, and Docker.
+
+  - name: Mobile development
+    description: Built a native Android app with Java and a native iOS app with Swift, focusing on performance optimization, responsive UI, and seamless cross-platform user experiences.
+
+  - name: Databases (PostgreSQL, MySQL, MongoDB, Salesforce Database)
+    description: Proficient in schema design, query optimization, and data modeling across relational (PostgreSQL, MySQL) and NoSQL (MongoDB) systems for performant data access.
+
+  - name: MuleSoft Anypoint Platform
+    description: Experienced in designing and managing APIs and integrations using Anypoint Studio, Runtime Manager, and API Manager to connect enterprise systems securely.
+
+  - name: Leadership & Collaboration
+    description: Strong teamwork and mentoring abilities, demonstrated through teaching assistance and leading engineering teams.
+
+  - name: Rust
+    description: Not proficient! But developed a high-performance, safe backend services (check my project "Luma")
+
+  - name: Solidity & Blockchain
+    description: Developed and audited Ethereum smart contracts, implementing secure, anonymous transactions and on-chain governance for decentralized applications.
+
 
 #If you have certifications, talk about them here
 certifications:
-  - name: Certification 1
-    topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
+  - name: CodeDay Labs Intern
 
-  - name: Certification 2
-    topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
+  - name: CodePath Android Development
 
-  - name: Certification 3
-    topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
+  - name: GAME104x Video Game Design, Teamwork & Collaboration

@@ -17,8 +17,12 @@
 <div id="about" class="container">
     {% for paragraph in site.data.about %}
     <div class="mb-4">
-        <h3>{{ paragraph }}</h3>
-    </div>
+      <h3>
+        {{ paragraph
+           | markdownify
+           | replace: '<p>', ''
+           | replace: '</p>', '' }}
+      </h3>    </div>
     {% endfor %}
 </div>
 

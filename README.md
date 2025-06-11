@@ -37,7 +37,7 @@ Github Pages use an SSG (static site generator) called [jekyll](https://jekyllrb
 4. Update the splash screen/ hero image (optional)
     - Add a high resolution landscape picture to the /assets/img directory
     - Navigate to _includes/intro.html
-        - Update the background url defined on line 6; currently set to './assets/img/hero.svg'
+        - Update the background url defined on line 6; currently set to './assets/img/hero.jpg'
 5. Push your changes
 6. Publish your website on Github Pages
     - Go to your repository on GitHub
