@@ -25,10 +25,10 @@ skill_list:
     description: Strong teamwork and mentoring abilities, demonstrated through teaching assistance and leading engineering teams.
 
   - name: Rust
-    description: Not proficient! But developed a high-performance, safe backend services (check my project "Luma")
+    description: Not proficient! But developed a high-performance, safe backend services (check out my project "Luma")
 
   - name: Solidity & Blockchain
-    description: Developed and audited Ethereum smart contracts, implementing secure, anonymous transactions and on-chain governance for decentralized applications.
+    description: Developed Ethereum smart contracts, implementing secure, anonymous transactions and on-chain governance for decentralized applications.
 
 
 #If you have certifications, talk about them here
